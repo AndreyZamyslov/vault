@@ -33,6 +33,9 @@ func configureSeal(configSeal *server.Seal, infoKeys *[]string, info *map[string
 	case wrapping.Transit:
 		return configureTransitSeal(configSeal, infoKeys, info, logger, inseal)
 
+	case wrapping.YandexCloudKMS:
+		return configureYandexCloudKMSSeal(configSeal, infoKeys, info, logger, inseal)
+
 	case wrapping.PKCS11:
 		return nil, fmt.Errorf("Seal type 'pkcs11' requires the Vault Enterprise HSM binary")
 
