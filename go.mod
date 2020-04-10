@@ -7,7 +7,7 @@ replace github.com/hashicorp/vault/api => ./api
 replace github.com/hashicorp/vault/sdk => ./sdk
 
 // TODO: Remove
-replace github.com/hashicorp/go-kms-wrapping => github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200409174200-fca6958476c4
+replace github.com/hashicorp/go-kms-wrapping => github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200410152908-20f88ae1f114
 
 require (
 	cloud.google.com/go v0.39.0
