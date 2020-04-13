@@ -14,6 +14,8 @@ github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200409174200-fca6958476c4 h
 github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200409174200-fca6958476c4/go.mod h1:9kzS8E63+/5hdSlc59200wPzg2pLHYZQ4k7AEM2KBzI=
 github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200410152908-20f88ae1f114 h1:zxCYf2Y/Xdm4x7f7fw2Nlk5VOur3O7PKZ1TTAJIh2T4=
 github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200410152908-20f88ae1f114/go.mod h1:9kzS8E63+/5hdSlc59200wPzg2pLHYZQ4k7AEM2KBzI=
+github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200413165253-5b6abaa329eb h1:eCH/oe7D4b+Pjl1jSCNvoImyZcfnYVd20D7cwh1pg2c=
+github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200413165253-5b6abaa329eb/go.mod h1:9kzS8E63+/5hdSlc59200wPzg2pLHYZQ4k7AEM2KBzI=
 github.com/Azure/azure-sdk-for-go v36.2.0+incompatible h1:09cv2WoH0g6jl6m2iT+R9qcIPZKhXEL0sbmLhxP895s=
 github.com/Azure/azure-sdk-for-go v36.2.0+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
 github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 h1:w+iIsaOQNcT7OZ575w+acHgRric5iCyQh+xv+KJ4HB8=
