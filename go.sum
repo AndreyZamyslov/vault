@@ -16,6 +16,8 @@ github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200410152908-20f88ae1f114 h
 github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200410152908-20f88ae1f114/go.mod h1:9kzS8E63+/5hdSlc59200wPzg2pLHYZQ4k7AEM2KBzI=
 github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200413165253-5b6abaa329eb h1:eCH/oe7D4b+Pjl1jSCNvoImyZcfnYVd20D7cwh1pg2c=
 github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200413165253-5b6abaa329eb/go.mod h1:9kzS8E63+/5hdSlc59200wPzg2pLHYZQ4k7AEM2KBzI=
+github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200415150805-4988b2b35472 h1:+YUuVy2RfOTtSae/0QwdVilBuvk4GEwotvhbMc+Gwfk=
+github.com/AndreyZamyslov/go-kms-wrapping v0.5.8-0.20200415150805-4988b2b35472/go.mod h1:DRXQMmyeJPPKSHHfGqjkUmYRfH1uyX3Zx1Ygf+/oS00=
 github.com/Azure/azure-sdk-for-go v36.2.0+incompatible h1:09cv2WoH0g6jl6m2iT+R9qcIPZKhXEL0sbmLhxP895s=
 github.com/Azure/azure-sdk-for-go v36.2.0+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
 github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 h1:w+iIsaOQNcT7OZ575w+acHgRric5iCyQh+xv+KJ4HB8=
@@ -739,6 +741,7 @@ github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXf
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+github.com/stretchr/testify v1.5.1 h1:nOGnQDM7FYENwehXlg/kFVnos3rEvtKTjRvOWSzb6H4=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
 github.com/tencentcloud/tencentcloud-sdk-go v3.0.132+incompatible/go.mod h1:0PfYow01SHPMhKY31xa+EFz2RStxIqj6JFAJS+IkCi4=
