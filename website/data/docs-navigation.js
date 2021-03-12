@@ -60,6 +60,7 @@ export default [
           'ocikms',
           'pkcs11',
           'transit',
+          'yandexcloudkms'
         ],
       },
       {
